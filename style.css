@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    padding: 2em;
+}
+
+#header1{
+    text-align: center;
+    padding: 0.5em;
+}
+
+#mainTxt
+{
+    padding: 1em;
+    text-align: center;
+}
+
+#ledStatus
+{
+    text-align: center;
+    padding: 1em;
+}
+
+#btn{
+     padding: 10px 20px;
+    border-radius: 5px;
+    display: block;
+    width: 130px;
+    margin: 10px auto 0px auto;
+}
